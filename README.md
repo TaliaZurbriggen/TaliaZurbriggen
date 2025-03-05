@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! Welcome to my profile 👨🏻‍💻
 
 <!--
 **TaliaZurbriggen/TaliaZurbriggen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
