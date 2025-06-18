@@ -2,9 +2,6 @@
 <p>
   <h1 align="center"><b>Hey! Welcome to my profile 👨🏻‍💻</b></h1>
 </p>
-<p>
-  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
-</p>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
